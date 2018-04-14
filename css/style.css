@@ -163,18 +163,31 @@ h1{
 }
 .seccion5{
 
-	height: 400px;
+	height: 450px;
 }
+/*
 #iconos{
 	color: gray;
 	display: block-inline;
 	margin:auto;
-	margin-left: 170px;
+	margin-left: 140px;
 	margin-top: 150px;
-	border: solid 1px gray;
-	border-radius: 100px;
+	border: solid 2px gray;
+	border-radius: 300px;
 	padding: 4px;
-
-
-
+}*/
+#iconos{
+	display: block-inline;
+	margin:auto;
+	border-radius: 180px;
+	margin-top: 10%;
+	margin-left: 140px;
+	border-radius: 350px 380px;
+	border: solid 5px gray;
+	padding: 10px;
+	color: gray;
+}
+.untitled{
+	margin-top: 10%;
+	color: gray;
 }
